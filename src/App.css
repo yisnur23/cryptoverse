@@ -69,7 +69,7 @@ a:hover {
   font-size: 1.2rem !important;
 }
 .loader {
-  height: 90vh;
+  height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;

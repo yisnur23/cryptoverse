@@ -33,6 +33,7 @@ a:hover {
 }
 .routes {
   padding: 20px;
+  min-height: 100vh;
 }
 .nav-container {
   position: fixed;
